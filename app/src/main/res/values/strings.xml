@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Gestion des Contacts V3</string>
+    <string name="title_contacts_list">Liste des Contacts</string>
+    <string name="title_contact_detail">Détail du Contact</string>
+    <string name="title_contact_new">Nouveau Contact</string>
+    <string name="title_contact_map">Localisation du Contact</string>
+    <string name="search_hint">Rechercher par nom, prénom ou téléphone…</string>
+    <string name="empty_contacts_list">Aucun contact trouvé</string>
+    <string name="nom_label">Nom</string>
+    <string name="prenom_label">Prénom</string>
+    <string name="telephone_label">Téléphone</string>
+    <string name="email_label">E-mail</string>
+    <string name="gps_label">Coordonnées GPS</string>
+    <string name="latitude_label">Latitude (-90 à 90)</string>
+    <string name="longitude_label">Longitude (-180 à 180)</string>
+    <string name="btn_call">Appeler</string>
+    <string name="btn_email">Envoyer e-mail</string>
+    <string name="btn_pick_photo">Galerie</string>
+    <string name="btn_take_photo">Caméra</string>
+    <string name="btn_view_map">Voir sur la carte</string>
+    <string name="btn_save">Enregistrer</string>
+    <string name="btn_cancel">Annuler</string>
+    <string name="error_required_fields">Veuillez remplir les champs obligatoires (Nom, Prénom, Téléphone, E-mail)</string>
+    <string name="error_invalid_coordinates">Coordonnées GPS invalides ou manquantes (Lat: -90 à 90, Lon: -180 à 180)</string>
+    <string name="error_no_coordinates_defined">Ce contact ne possède pas de coordonnées GPS définies</string>
+</resources>
